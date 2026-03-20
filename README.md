@@ -33,7 +33,7 @@ To actually run these components, you would need to drop them into a scaffolded 
 
 ---
 
-## 🏗️ Architecture Overview
+## Architecture Overview
 
 The system uses a classic 3-tier architecture, heavily focused on a robust Python API.
 
